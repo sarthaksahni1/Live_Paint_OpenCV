@@ -1,6 +1,7 @@
 # Webcam Paint Using OpenCV
 This code helps you track an object-of-interest to draw colored lines on the screen (just like the Paint application but using the webcam, which makes it both awesome and harder to draw simple things).
-
+![Camera](https://raw.githubusercontent.com/sarthaksahni1/Live_Paint_OpenCV/master/images/Camera.PNG)<br>
+![Paint](https://raw.githubusercontent.com/sarthaksahni1/Live_Paint_OpenCV/master/images/Paint.png)<br>
 ## Project Description
 This Python application uses OpenCV library to track any blue object in the frame (bottle cap in my case) and uses the detected object to draw colored lines (Blue, Green, Red and Yellow).
 
