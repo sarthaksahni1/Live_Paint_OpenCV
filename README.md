@@ -1,4 +1,4 @@
-# Webcam Paint Using OpenCV [![](https://img.shields.io/github/license/mashape/apistatus.svg)]
+# Webcam Paint Using OpenCV
 This code helps you track an object-of-interest to draw colored lines on the screen (just like the Paint application but using the webcam, which makes it both awesome and harder to draw simple things).
 
 ## Project Description
@@ -12,9 +12,6 @@ For more information, [see](http://opencv-python-tutroals.readthedocs.io/en/late
 
 ## Code Requirements
 The code is in Python (version 3.6 or higher). You also need to install OpenCV library.
-
-## Code Explanation
-I have written [this tutorial post on medium](https://medium.com/@akshaychandra21/dbe356ab5d6c) explaining the code.
 
 ## Execution
 To run the code, type
